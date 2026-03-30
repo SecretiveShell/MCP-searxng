@@ -18,6 +18,10 @@ Search the web with SearXNG
 search(query: str) -> f"Searching for {query} using searXNG"
 ```
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/secretiveshell-mcp-searxng).
+
 ## Usage
 
 ### via uvx
